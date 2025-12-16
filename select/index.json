@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "たましいの居場所",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-16T15:44:52.122262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "たましいの居場所",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_たましいの居場所_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "たましいの居場所",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_たましいの居場所_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "たましいの居場所 - Tamashiinoibasyo",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_たましいの居場所_-_Tamashiinoibasyo_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たましいの居場所",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_たましいの居場所_マカロニえんぴつ.txt"
+    }
+  ]
+}
